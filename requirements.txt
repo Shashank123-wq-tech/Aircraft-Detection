@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-ultralytics
-opencv-python
-python-multipart
-jinja2
-python-multipart
