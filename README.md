@@ -7,4 +7,5 @@ dataset link: https://www.kaggle.com/datasets/rookieengg/military-aircraft-detec
 Detect aircraft in images with high accuracy
 Minimize false detections in complex backgrounds
 Build a scalable model suitable for real-time applications
-Handle variations in aircraft size, orientation, and lighting
+Handle variations in aircraft size, orientation, and lighting.
+# My whole Project demonstration:https://youtu.be/szVpaUCH3Nk
