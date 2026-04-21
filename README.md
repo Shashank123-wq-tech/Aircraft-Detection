@@ -79,7 +79,7 @@ names:
 
 #### Frontend
 
-HTML, CSS, JavaScript
+HTML, CSS
 
 ### Backend
 
