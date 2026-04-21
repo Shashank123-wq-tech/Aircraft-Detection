@@ -59,7 +59,7 @@ names:
 ![Distribution](https://github.com/Shashank123-wq-tech/Aircraft-Detection/blob/main/Screenshot%202026-04-21%20095147.png)
 
 ### My whole Project demonstration: 
-https://youtu.be/szVpaUCH3Nk
+(https://youtu.be/szVpaUCH3Nk)
 
 ## Key Features:
 - Real-time aircraft detection.
@@ -118,3 +118,24 @@ Local Server.
 - Model performs detection
 - Bounding boxes + labels generated
 - Results displayed on UI
+
+## Sample Output:
+#### Aircraft detected with bounding boxes and Confidence Score:
+![Output](https://github.com/Shashank123-wq-tech/Aircraft-Detection/blob/main/B52%20Aircraft.png)
+![Output](https://github.com/Shashank123-wq-tech/Aircraft-Detection/blob/main/US2.png)
+![Output](https://github.com/Shashank123-wq-tech/Aircraft-Detection/blob/main/Output.png)
+
+##  Use Cases
+- Defense surveillance systems
+- Airspace monitoring
+- Military intelligence
+- Autonomous drone systems
+## Future Improvements
+ Real-time drone feed integration.
+ Radar + AI fusion system.
+ Improved model accuracy using larger datasets.
+ Mobile app integration.
+
+##  Author:
+Shashank Dixit
+AI/ML Enthusiast
