@@ -1,4 +1,10 @@
 # Aircraft Detection Project Using Computer Vision
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Backend-Flask-black)
+![YOLO](https://img.shields.io/badge/Model-YOLOv8-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 This project focuses on developing an automated aircraft detection system using deep learning and computer vision techniques. 
 The goal is to accurately identify and localize aircraft in images or video streams, 
 enabling applications in surveillance, defense, and air traffic monitoring.
@@ -131,11 +137,11 @@ Local Server.
 - Military intelligence
 - Autonomous drone systems
 ## Future Improvements
- Real-time drone feed integration.
- Radar + AI fusion system.
- Improved model accuracy using larger datasets.
- Mobile app integration.
+- Real-time drone feed integration.
+- Radar + AI fusion system.
+- Improved model accuracy using larger datasets.
+- Mobile app integration.
 
 ##  Author:
 Shashank Dixit
-AI/ML Enthusiast
+AI/ML Enthusiat 
