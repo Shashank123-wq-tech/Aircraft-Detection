@@ -126,6 +126,17 @@ Local Server.
 - Bounding boxes + labels generated
 - Results displayed on UI
 
+## 🏆 Best Performing Aircraft Classes
+
+| Rank | Aircraft Class | Precision | Recall | mAP@50 | mAP@50-95 |
+| ---- | -------------- | --------- | ------ | ------ | --------- |
+| 🥇   | **C2**         | 71.3%     | 82.6%  | 86.1%  | **80.5%** |
+| 🥈   | **AG600**      | 61.1%     | 61.9%  | 70.6%  | **64.9%** |
+| 🥉   | **US2**        | 62.4%     | 65.6%  | 73.3%  | **61.8%** |
+
+These results demonstrate the model's ability to accurately detect aircraft with distinctive visual characteristics. Future work will focus on improving performance for fine-grained fighter aircraft classes exhibiting high inter-class similarity.
+Best-performing classes: C2 (80.5% mAP@50-95), AG600 (64.9%), and US2 (61.8%), demonstrating strong detection performance on visually distinctive military aircraft.
+
 ## Sample Output:
 #### Aircraft detected with bounding boxes and Confidence Score:
 ![Output](https://github.com/Shashank123-wq-tech/Aircraft-Detection/blob/main/B52%20Aircraft.png)
